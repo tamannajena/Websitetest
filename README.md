@@ -1,2 +1,2 @@
 # Websitetest
-Creating a website and publishing the same
+Creating and publishing a website 
